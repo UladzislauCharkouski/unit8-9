@@ -79,3 +79,8 @@ public class Customer {
 		return "Customer (Id = " + id + ", Surname = " + surName + ", First Name = " + firstName + ", Middle Name = " + middleName + ", Address = " + address + ", Credit Card Number = "+ creditCardNumber+ "\", Bank Account Number = " + bankAccountNumber + ")";
 	}
 }
+// по коду все хорошо
+//только не нашла реализации вот этих пунктов
+//Найти и вывести: 
+//a) список покупателей в алфавитном порядке; 
+//b) список покупателей, у которых номер кредитной карточки находится в заданном интервале
